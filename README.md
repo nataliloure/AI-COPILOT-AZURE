@@ -1,4 +1,4 @@
-# AI-COPILOT-AZURE
+# AI-COPILOT-AZURE ⚡
 
 Acesse o Microsoft Copilot: Abra o site copilot.microsoft.com e faça login com sua conta pessoal da Microsoft.
 
